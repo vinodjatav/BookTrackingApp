@@ -12,7 +12,7 @@
 
 ## Usage
 
-### You can start the app with this commands:
+### You can start the app with these commands:
 ```
 npm install
 npm start

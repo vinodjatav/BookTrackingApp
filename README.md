@@ -1,5 +1,9 @@
 # Book Tracking App
-Book Tracking App with react
+ 
+ Created a simple book tracking app that allows users to see a collection of books with the following specifications:
+- Fetch the book collection – using CRUD API.
+- Display the list of books with image, title, author and genre.
+- The app should be responsive
 
 ## Component layout
 

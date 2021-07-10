@@ -4,6 +4,7 @@
 - Fetch the book collection – using CRUD API.
 - Display the list of books with image, title, author and genre.
 - The app should be responsive
+This app uses Google Books API to fetch data.
 
 ## Component layout
 

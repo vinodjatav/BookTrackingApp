@@ -1,6 +1,8 @@
 # Book Tracking App
 Book Tracking App with react
 
+## Component layout
+
 ![Image](https://i.ibb.co/MPww9KY/test.jpg)
 
 
